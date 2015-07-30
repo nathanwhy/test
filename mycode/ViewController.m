@@ -20,6 +20,8 @@
 {
     [super viewDidLoad];
     
+    
+    //.
     [self addLineLabel];
 }
 
